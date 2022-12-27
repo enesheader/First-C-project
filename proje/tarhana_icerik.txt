@@ -1,0 +1,11 @@
+
+*********Bir kilogram tarhananin icindekiler*********
+
+Bir kilogram dogme.
+Uc kilogram yogurt.
+Kekik
+Tuz
+Icme suyu
+
+Sistemden cikmak icin 0'i tuslayiniz.
+Devam etmek icin 1'i tuslayiniz.

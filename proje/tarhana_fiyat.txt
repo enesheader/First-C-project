@@ -1,0 +1,12 @@
+
+*********Fiyat listemiz*********
+
+
+-Bir kilogram Klasik veya Cips tarhana 80 tl
+-Bir kilogram baharatli veya acili tarhana 100 tl.
+-Bir kilogram corekotlu tarhana 90 tl.
+-Bir kilogram corbalik tarhana 30 tl.
+-Bir kilogram acili veya baharatli corbalik tarhana 40 tl.
+
+Sistemden cikmak icin 0'i tuslayiniz.
+Devam etmek icin 1'i tuslayiniz.
